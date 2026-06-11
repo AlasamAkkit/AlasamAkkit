@@ -1,4 +1,4 @@
-# Hi, I'm Chong Yu Siang 👋
+# Hi, I'm Yu Siang 
 
 I'm a Computer Science undergraduate at Nanyang Technological University, focused on full-stack software development, web applications, and clean, maintainable systems.
 
