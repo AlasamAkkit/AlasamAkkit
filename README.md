@@ -1,6 +1,6 @@
 # Hi, I'm Yu Siang 
 
-I'm a Computer Science undergraduate at Nanyang Technological University, focused on full-stack software development, web applications, and clean, maintainable systems.
+I'm a Year 3Computer Science undergraduate at Nanyang Technological University, focused on full-stack software development, web applications, and clean, maintainable systems.
 
 I enjoy building practical applications with React, TypeScript, Node.js, and modern web technologies. My experience includes frontend development, CMS-driven websites, backend APIs, database integration, and software engineering coursework projects.
 
@@ -17,7 +17,7 @@ I enjoy building practical applications with React, TypeScript, Node.js, and mod
 | Project | Description | Tech |
 |---|---|---|
 | **EduCareer** | Full-stack course management platform for learners, providers, and admins | React, TypeScript, Node.js, Express, MySQL |
-| **E-Commerce Platform** | Full-stack e-commerce application with frontend, backend, and database layers | React, TypeScript, Node.js, SQL |
+| **Supermarket Delivery Game** | A Virtual Interactive System game of delivering goods to designated location | Java, ECS |
 | **AI Fact Checker** | Web app for checking claims and presenting supporting evidence | JavaScript, AI APIs |
 | **Hospital Management System** | OOP-based system for patient, staff, and appointment workflows | Java, OOP, SOLID |
 | **MovieDB App** | Kotlin-based movie database application | Kotlin, Android |
@@ -32,4 +32,3 @@ I enjoy building practical applications with React, TypeScript, Node.js, and mod
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/chong-yu-siang-050247349/
-- GitHub: https://github.com/AlasamAkkit
