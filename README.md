@@ -1,8 +1,10 @@
 # Hi, I'm Yu Siang 
 
-I'm a Year 3Computer Science undergraduate at Nanyang Technological University, focused on full-stack software development, web applications, and clean, maintainable systems.
+I'm a Year 3 Computer Science undergraduate at Nanyang Technological University, focused on full-stack software development, web applications, and clean, maintainable systems.
 
 I enjoy building practical applications with React, TypeScript, Node.js, and modern web technologies. My experience includes frontend development, CMS-driven websites, backend APIs, database integration, and software engineering coursework projects.
+
+Checkout my portfolio here: https://yusiang-portfolio.vercel.app
 
 ## 💻 Tech Stack
 
