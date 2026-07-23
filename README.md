@@ -20,7 +20,7 @@ Checkout my portfolio here: https://yusiang-portfolio.vercel.app
 |---|---|---|
 | **EduCareer** | Full-stack course management platform for learners, providers, and admins | React, TypeScript, Node.js, Express, MySQL |
 | **Supermarket Delivery Game** | A Virtual Interactive System game of delivering goods to designated location | Java, ECS |
-| **AI Fact Checker** | Web app for checking claims and presenting supporting evidence | JavaScript, AI APIs |
+| **Ledger** | Full-stack personal finance tracker with authentication, account management, transaction workflows, budgets, and an authenticated REST API | NextJS, TypeScript, PostgreSQL, Prisma, Clerk, Fullstack, Finance, Rest-Api |
 | **Hospital Management System** | OOP-based system for patient, staff, and appointment workflows | Java, OOP, SOLID |
 | **MovieDB App** | Kotlin-based movie database application | Kotlin, Android |
 
